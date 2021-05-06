@@ -1,0 +1,10 @@
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe.config
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Console.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csprojAssemblyReference.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CoreCompileInputs.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\bin\Debug\07_StreamingContent_Repository.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Console\obj\Debug\07_StreamingContent_Console.csproj.CopyComplete

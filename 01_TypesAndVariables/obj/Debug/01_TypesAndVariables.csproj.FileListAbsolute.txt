@@ -1,0 +1,14 @@
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csprojAssemblyReference.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb

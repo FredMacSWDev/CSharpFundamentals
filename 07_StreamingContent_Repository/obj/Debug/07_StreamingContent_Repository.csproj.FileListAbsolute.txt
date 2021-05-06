@@ -1,0 +1,6 @@
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csprojAssemblyReference.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csproj.CoreCompileInputs.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.pdb
