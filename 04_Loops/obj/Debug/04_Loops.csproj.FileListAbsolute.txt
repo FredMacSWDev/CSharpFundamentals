@@ -12,3 +12,17 @@ E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 
 E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csproj.CopyComplete
 E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.dll
 E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\04_Loops.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\04_Loops.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csprojAssemblyReference.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csproj.CopyComplete
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.pdb

@@ -1,0 +1,20 @@
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe.config
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.dll
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.pdb
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csprojAssemblyReference.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CoreCompileInputs.cache
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CopyComplete
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.exe
+E:\Frederick McClung\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe.config
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\09_StreamingContent_UIRefactor.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\bin\Debug\07_StreamingContent_Repository.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csprojAssemblyReference.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CoreCompileInputs.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.csproj.CopyComplete
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\09_StreamingContent_UIRefactor\obj\Debug\09_StreamingContent_UIRefactor.pdb

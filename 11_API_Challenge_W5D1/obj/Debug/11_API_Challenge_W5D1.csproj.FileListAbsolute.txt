@@ -1,0 +1,12 @@
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\11_API_Challenge_W5D1.exe.config
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\11_API_Challenge_W5D1.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\11_API_Challenge_W5D1.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\Newtonsoft.Json.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\Newtonsoft.Json.xml
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\obj\Debug\11_API_Challenge_W5D1.csprojAssemblyReference.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\obj\Debug\11_API_Challenge_W5D1.csproj.CoreCompileInputs.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\obj\Debug\11_API_Challenge_W5D1.csproj.CopyComplete
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\obj\Debug\11_API_Challenge_W5D1.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\obj\Debug\11_API_Challenge_W5D1.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\System.Net.Http.Formatting.dll
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\11_API_Challenge_W5D1\bin\Debug\System.Net.Http.Formatting.xml

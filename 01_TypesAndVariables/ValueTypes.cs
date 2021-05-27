@@ -12,7 +12,7 @@ namespace _01_TypesAndVariables
         {
             bool isDeclared;
 
-            isDeclared = true; // initializing th e variable
+            isDeclared = true; // initializing the variable
 
             bool isDeclaredAndInitialized = false;
         }

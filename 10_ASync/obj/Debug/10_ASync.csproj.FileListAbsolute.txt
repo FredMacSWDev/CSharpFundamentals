@@ -1,0 +1,7 @@
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\bin\Debug\10_ASync.exe.config
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\bin\Debug\10_ASync.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\bin\Debug\10_ASync.pdb
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\obj\Debug\10_ASync.csprojAssemblyReference.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\obj\Debug\10_ASync.csproj.CoreCompileInputs.cache
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\obj\Debug\10_ASync.exe
+E:\FredMac\OneDrive\EFA (Eleven Fifty Academy)\ElevenFiftyProjects\SD 86 4-26-21 Gold FT\CSharpFundamentals\10_ASync\obj\Debug\10_ASync.pdb

@@ -8,6 +8,8 @@ namespace _05_Classes
 {
     public class Calculator
     {
+        // Write a method that takes in two numbers and returns the sum of those two numbers as a double
+        //Access mod + type + + body
         public double GetSum(double numOne, double numTwo)
         {
             double sumSolution = numOne + numTwo;
